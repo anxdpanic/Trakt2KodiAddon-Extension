@@ -3,4 +3,5 @@
 Trakt2KodiAddon (Browser Extension)
 =========
 
-Discontinued, Replaced by [TraktToKodi](https://github.com/anxdpanic/TraktToKodi-Extension)
+Discontinued.
+Replaced by [TraktToKodi](https://github.com/anxdpanic/TraktToKodi-Extension)
